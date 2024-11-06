@@ -3,18 +3,18 @@
 
 
 
-# Udemig Education; Get the opportunity for a great future by stepping into the software world with us. 
+ Udemig Education; Get the opportunity for a great future by stepping into the software world with us. 
 
 
 
 
-# Used Technologies:
+ Used Technologies:
 
-# • HTML5, 
+ • HTML5, 
 
-# • CSS,
+ • CSS,
 
-# • SCSS,
+ • SCSS,
 
 
 
